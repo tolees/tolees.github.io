@@ -6,6 +6,7 @@ languageCode = "en"
 disqusShortname = ""
 paginate = 30
 disableKinds = ["RSS"]
+enableRobotsTXT = true
 
 [sitemap]
   changefreq = "hourly"
