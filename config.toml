@@ -7,7 +7,7 @@ disqusShortname = ""
 paginate = 30
 disableKinds = ["RSS"]
 enableRobotsTXT = true
-googleAnalytics = "G-1BKKRPRJ18"
+GoogleAnalytics = "G-1BKKRPRJ18"
 
 [sitemap]
   changefreq = "hourly"
