@@ -4,10 +4,11 @@ theme = "dream"
 languageCode = "en"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
-paginate = 30
 disableKinds = ["RSS"]
 enableRobotsTXT = true
 GoogleAnalytics = "G-1BKKRPRJ18"
+[pagination]
+pagerSize = 30
 
 [sitemap]
   changefreq = "hourly"
